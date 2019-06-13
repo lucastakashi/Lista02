@@ -37,10 +37,10 @@ return atoi(resp);
 int main()
 {
 
-int n1;
+int nu1;
 char resutado[10];
     printf("Digite um numero: ");
-    scanf("%d",&n1);
-    printf(" o resultado em binario e : %d ",converte(n1));
+    scanf("%d",&nu1);
+    printf(" o resultado em binario é  : %d ",converte(n1));
 return 0;
 }
