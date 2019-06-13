@@ -29,6 +29,6 @@ int main()
     varianca = soma/(cont-1);
     desvioPadrao = sqrt(varianca);
 
-    printf("A media e : %f \n",media);
-    printf("o desvioPadrao e : %f \n",desvioPadrao);
+    printf("A media é : %f \n",media);
+    printf("o desvioPadrao é : %f \n",desvioPadrao);
 }
