@@ -2,7 +2,7 @@
 #include <conio.h>
 
 void soma(int *p1,int *p2){
-    printf("soma %d\n",*p1+*p2);
+    printf("adicionar %d\n",*p1+*p2);
 }
 void subtracao(int *p1,int *p2){
     printf("subtracao %d\n",*p1-*p2);
@@ -23,7 +23,7 @@ int *p1,*p2;
     scanf("%d",&n2);
     p1 =&n1;
     p2 =&n2;
-    soma(p1,p2);
+    adicionar(p1,p2);
     subtracao(p1,p2);
     multiplicao(p1,p2);
     divisao(p1,p2);
