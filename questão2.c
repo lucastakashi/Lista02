@@ -7,13 +7,13 @@ int main(){
  int res;
  int dia_nas, mes_nas, ano_nas;
 
-    printf("digite o dia atual : ");
+    printf("digite o dia de agora : ");
     scanf("%d",&dia);
 
-    printf("digite o mes atual : ");
+    printf("digite o mes de agora : ");
     scanf("%d",&mes);
 
-    printf("digite o ano atual : ");
+    printf("digite o ano de agora : ");
     scanf("%d",&ano);
 
     printf("digite o dia nascimento : ");
