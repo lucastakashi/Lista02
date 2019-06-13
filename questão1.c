@@ -7,9 +7,9 @@ int main()
     printf("Digite um numero : ");
     scanf("%d",&nu1);
     if(nu1%2 == 0){
-        printf("O numero e par");
+        printf("O numero é par");
     }else{
-        printf("o numero e impar");
+        printf("o numero é impar");
     }
 
 
