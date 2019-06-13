@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-void soma(int *p1,int *p2){
+void adicionar(int *p1,int *p2){
     printf("adicionar %d\n",*p1+*p2);
 }
 void subtracao(int *p1,int *p2){
